@@ -3,7 +3,7 @@ Meet wordMaster, your go-to bot for synonyms, antonyms, and tense forms of any w
 
 #PostmanStudent #ProjectBasedLearning #APIDaycoastalKarnataka
 
-#Images:
+Images:
 
 ![Screenshot](/assets/image1.png?raw=true "wordMaster")
 
