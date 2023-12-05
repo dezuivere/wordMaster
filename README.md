@@ -5,7 +5,6 @@ Meet wordMaster, your go-to bot for synonyms, antonyms, and tense forms of any w
 
 Images:
 
-![Screenshot](/assets/image1.png?raw=true "wordMaster")
 
 ![Screenshot](/assets/image2.png?raw=true "wordMaster")
 
